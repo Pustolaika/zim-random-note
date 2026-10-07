@@ -2,6 +2,7 @@
 
 A third-party plugin for [Zim Desktop Wiki](https://zim-wiki.org/) that opens a random non-empty note from the current notebook.
 
+Tested with Zim 0.77.2 (Windows 11).
 ### Features
 
 The plugin adds the following command:
